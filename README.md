@@ -9,7 +9,7 @@ WanAndroid主页：[http://www.wanandroid.com/index](http://www.wanandroid.com/i
 ##### 1.1、项目架构
 Kotlin语言开发，采用MVP架构。
 
-**刚刚学完Kotlin基础，但是并不是非常好的应用在项目中，所以有些Kotlin的特性使用起来不是非常顺畅。本软件的源码还需要不断改进！**
+**刚刚学完Kotlin基础，所以有些Kotlin的特性使用起来不是非常顺畅。本软件的源码还需要不断改进！**
 
 ##### 1.2、整体模块：  
 * 首页：推荐最新的博客。
@@ -89,7 +89,7 @@ Kotlin语言开发，采用MVP架构。
 
 #### License
 
-Copyright (c) 2018 再峰
+Copyright (c) 2018 阿凯
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
