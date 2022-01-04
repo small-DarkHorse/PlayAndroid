@@ -1,9 +1,6 @@
 
 WanAndroid主页：[http://www.wanandroid.com/index](http://www.wanandroid.com/index)   
 
-
-非常感谢张鸿洋老师提供的开放api！向开源者致敬！
-
 #### 1、WanAndroid的整体模块和部分效果图
 
 ##### 1.1、项目架构
